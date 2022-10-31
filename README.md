@@ -1,6 +1,9 @@
 # finger_counter
 
 <!--
+#field
+AI
+
 #groups
 Computer Vision
 
